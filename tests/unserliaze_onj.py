@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# filename = unserliaze_onj.py
+
 import pprint, pickle
 
 pkl_file = open('data.pkl', 'rb')

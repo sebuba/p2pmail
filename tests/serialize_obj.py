@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# filename = serialize_obj.py
 import pickle
 
 data1 = {'a': [1, 2.0, 3, 4+6j],
